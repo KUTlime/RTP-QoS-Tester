@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RTP QoS tester")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A console application for Quality of Service measurement. It provides a statistics how much packet were lost during transmission over network.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Medirecord")]
 [assembly: AssemblyProduct("RTP QoS tester")]
